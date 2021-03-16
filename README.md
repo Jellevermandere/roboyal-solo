@@ -17,7 +17,8 @@ You can only punch in front of you, so you will have to aim first by moving in t
 Movements always go before punches. The bots will hunt for you, but they will also hit each other.
 
 ## Commands
-``$play`` ``easy``,``medium``,``hard``  Start a new game if you're not playing already. ``$stop``  Stop playing your current game"
+``$play`` ``easy``,``medium``,``hard``  Start a new game if you're not playing already. 
+``$stop``  Stop playing your current game"
 
 ## Controls
 Move your bot 1 tile **left**.

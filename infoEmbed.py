@@ -36,6 +36,11 @@ def GetInfoEmbed():
         + "\n - " + customEmoji.actions[4].StringMessage() + "  Punch 1 tile in front of you",
         inline= True
     )
+    embedVar.add_field(
+        name = "Source Code", 
+        value = "https://github.com/Jellevermandere/roboyal-solo", 
+        inline= False
+    )
     embedVar.set_thumbnail(url = "https://cdn.discordapp.com/emojis/796464191056904192.png?v=1")
     embedVar.set_footer(text = "Created by Jelle Vermandere", icon_url= "https://cdn.discordapp.com/emojis/736658894805532724.png?v=1")
 

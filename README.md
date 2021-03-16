@@ -10,10 +10,10 @@ You must defeat all other **Blue Bots** on the field
 ## How To Play
 
 You can Choose one **action** every turn.
-Every Bot has **2 lives:** "
+Every Bot has **2 lives:** 
 You can damage Bots by **punching** 
-Be careful, they can punch you too!"
-You can only punch in front of you, so you will have to aim first by moving in the correct direction!"
+Be careful, they can punch you too!
+You can only punch in front of you, so you will have to aim first by moving in the correct direction!
 Movements always go before punches. The bots will hunt for you, but they will also hit each other.
 
 ## Commands

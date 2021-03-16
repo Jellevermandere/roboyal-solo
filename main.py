@@ -51,6 +51,12 @@ def CreateBoardEmbed(instance, player):
         value = "Thanks for playing, use ``" + prefix + "play`` to play again!", 
         inline= False
         )
+    else:
+        embedVar.add_field(
+        name = "React to control your bot", 
+        value = "Score: " + str(instance.board.player.points) + "pts", 
+        inline= False
+        )
     embedVar.add_field(
         name = "Player", 
         value = player.mention, 

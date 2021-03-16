@@ -41,6 +41,11 @@ def GetInfoEmbed():
         value = "https://github.com/Jellevermandere/roboyal-solo", 
         inline= False
     )
+    embedVar.add_field(
+        name = "Discord Server:", 
+        value = "https://discord.com/invite/cuMtQp6", 
+        inline= False
+    )
     embedVar.set_thumbnail(url = "https://cdn.discordapp.com/emojis/796464191056904192.png?v=1")
     embedVar.set_footer(text = "Created by Jelle Vermandere", icon_url= "https://cdn.discordapp.com/emojis/736658894805532724.png?v=1")
 
